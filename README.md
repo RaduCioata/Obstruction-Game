@@ -30,20 +30,6 @@ Welcome to the Obstruction Game! This is a two-player strategy game where player
   +---+---+---+
 ```
 
-## Installation
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/obstruction-game.git
-   cd obstruction-game
-   ```
-
-2. **Run the game**:
-   Ensure you have Python installed, then execute:
-   ```bash
-   python Main/main.py
-   ```
-
 ## Requirements
 
 - Python 3.x
