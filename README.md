@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Obstruction Game
 
 Welcome to the Obstruction Game! This is a two-player strategy game where players take turns placing marks on a grid. The goal is to block your opponent from making a move.
@@ -61,13 +60,4 @@ Welcome to the Obstruction Game! This is a two-player strategy game where player
 
 Contributions are welcome! Please fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License.
-
-## Contact
-
-For questions or feedback, please contact [your email]. 
-=======
 # Obstruction-Game
->>>>>>> f20bc02eecc5234889d915b11ee3edc759c6dcb3
